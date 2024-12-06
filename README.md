@@ -17,6 +17,9 @@ A web-based platform that allows users to explore anime movies, view ratings, an
 - **Design Adjustments**: Modify the inline styles or link an external CSS file for enhanced visuals.
 - **Dynamic Functionality**: Incorporate JavaScript for interactive features like real-time ratings or user reviews.
 
+## License
+This project is licensed under the MIT License. Refer to the LICENSE file for details.
+
 #### Author: Sukant R
 #### Contact: sukantravichandran17@gmail.com
 #### GitHub: [https://github.com/RSukant](https://github.com/RSukant)
